@@ -1,0 +1,12 @@
+C:\Users\ChengsLuo\VirtualBox VMs\桌面\Chengs.Chatroom\Chengs.Chatroom\bin\Debug\Chengs.Chatroom.exe.config
+C:\Users\ChengsLuo\VirtualBox VMs\桌面\Chengs.Chatroom\Chengs.Chatroom\bin\Debug\Chengs.Chatroom.exe
+C:\Users\ChengsLuo\VirtualBox VMs\桌面\Chengs.Chatroom\Chengs.Chatroom\bin\Debug\Chengs.Chatroom.pdb
+C:\Users\ChengsLuo\VirtualBox VMs\桌面\Chengs.Chatroom\Chengs.Chatroom\obj\Debug\Chengs.Chatroom.Properties.Resources.resources
+C:\Users\ChengsLuo\VirtualBox VMs\桌面\Chengs.Chatroom\Chengs.Chatroom\obj\Debug\Chengs.Chatroom.csproj.GenerateResource.Cache
+C:\Users\ChengsLuo\VirtualBox VMs\桌面\Chengs.Chatroom\Chengs.Chatroom\obj\Debug\Chengs.Chatroom.exe
+C:\Users\ChengsLuo\VirtualBox VMs\桌面\Chengs.Chatroom\Chengs.Chatroom\obj\Debug\Chengs.Chatroom.pdb
+C:\Users\ChengsLuo\VirtualBox VMs\桌面\Chengs.Chatroom\Chengs.Chatroom\obj\Debug\Chengs.Chatroom.ChatroomUI.resources
+C:\Users\ChengsLuo\VirtualBox VMs\桌面\Chengs.Chatroom\Chengs.Chatroom\bin\Debug\Chatroom.resx
+C:\Users\ChengsLuo\VirtualBox VMs\桌面\Chengs.Chatroom\Chengs.Chatroom\bin\Debug\Chatroom.cs
+C:\Users\ChengsLuo\VirtualBox VMs\桌面\Chengs.Chatroom\Chengs.Chatroom\bin\Debug\Chatroom.Designer.cs
+C:\Users\ChengsLuo\VirtualBox VMs\桌面\Chengs.Chatroom\Chengs.Chatroom\obj\Debug\Chengs.Chatroom.csprojResolveAssemblyReference.cache

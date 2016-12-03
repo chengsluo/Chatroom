@@ -1,0 +1,14 @@
+C:\Users\ChengsLuo\VirtualBox VMs\桌面\Chengs.Chatroom\Chengs.Chatroom\bin\Release\Chengs.Chatroom.exe.config
+C:\Users\ChengsLuo\VirtualBox VMs\桌面\Chengs.Chatroom\Chengs.Chatroom\bin\Release\Chatroom.resx
+C:\Users\ChengsLuo\VirtualBox VMs\桌面\Chengs.Chatroom\Chengs.Chatroom\bin\Release\Chatroom.cs
+C:\Users\ChengsLuo\VirtualBox VMs\桌面\Chengs.Chatroom\Chengs.Chatroom\bin\Release\Chatroom.Designer.cs
+C:\Users\ChengsLuo\VirtualBox VMs\桌面\Chengs.Chatroom\Chengs.Chatroom\bin\Release\Chengs.Chatroom.exe
+C:\Users\ChengsLuo\VirtualBox VMs\桌面\Chengs.Chatroom\Chengs.Chatroom\bin\Release\Chengs.Chatroom.pdb
+C:\Users\ChengsLuo\VirtualBox VMs\桌面\Chengs.Chatroom\Chengs.Chatroom\obj\Release\Chengs.Chatroom.ChatroomUI.resources
+C:\Users\ChengsLuo\VirtualBox VMs\桌面\Chengs.Chatroom\Chengs.Chatroom\obj\Release\Chengs.Chatroom.Properties.Resources.resources
+C:\Users\ChengsLuo\VirtualBox VMs\桌面\Chengs.Chatroom\Chengs.Chatroom\obj\Release\Chengs.Chatroom.csproj.GenerateResource.Cache
+C:\Users\ChengsLuo\VirtualBox VMs\桌面\Chengs.Chatroom\Chengs.Chatroom\obj\Release\Chengs.Chatroom.exe
+C:\Users\ChengsLuo\VirtualBox VMs\桌面\Chengs.Chatroom\Chengs.Chatroom\obj\Release\Chengs.Chatroom.pdb
+D:\Docments\计算机网络\Socket通信实验\Chengs.Chatroom\Chengs.Chatroom\bin\Release\Chengs.Chatroom.exe.config
+D:\Docments\计算机网络\Socket通信实验\Chengs.Chatroom\Chengs.Chatroom\obj\Release\Chengs.Chatroom.exe
+D:\Docments\计算机网络\Socket通信实验\Chengs.Chatroom\Chengs.Chatroom\obj\Release\Chengs.Chatroom.pdb
